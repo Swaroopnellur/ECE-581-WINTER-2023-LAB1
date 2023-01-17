@@ -1,0 +1,11 @@
+  Setting attribute of root '/': 'stdout_log' = genus.log.23-01-15_22-01
+  Setting attribute of root '/': 'command_log' = genus.cmd.23-01-15_22-01
+WARNING: This version of the tool is 317 days old.
+@genus:root: 1> legacy_gui
+invalid command name "legacy_gui"
+@genus:root: 2> genus legacy_gui
+@genus:root: 3> geus -legacy_ui
+invalid command name "geus"
+@genus:root: 4> geunus -legacy_ui
+invalid command name "geunus"
+@genus:root: 5> genus -legacy_ui
